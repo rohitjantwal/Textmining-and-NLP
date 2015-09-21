@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataCleaner">
+</Property><Property Name="Solution File" Value="C:\Users\Diksha\Desktop\try\New folder\TextMining\DataCleaner\DataCleaner\DataCleaner.sln">
+</Property><Property Name="Date" Value="5 May, 2013">
+</Property><Property Name="Time" Value="20:02 PM">
+</Property></Properties><Event ErrorLevel="2" Project="AnalyzerViewer" Source="AnalyzerViewer\AnalyzerViewer.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="DataCleaner.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DataCleaner.sln" Description="Converted">
+</Event></UpgradeLog>

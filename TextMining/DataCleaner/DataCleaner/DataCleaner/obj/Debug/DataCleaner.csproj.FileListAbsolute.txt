@@ -1,0 +1,50 @@
+C:\Users\user\Downloads\AnalyzerViewer_source\DataCleaner\DataCleaner\bin\Debug\AnalyzerViewer.exe
+C:\Users\user\Downloads\AnalyzerViewer_source\DataCleaner\DataCleaner\bin\Debug\AnalyzerViewer.pdb
+C:\Users\user\Downloads\AnalyzerViewer_source\DataCleaner\DataCleaner\bin\Debug\Lucene.Net.dll
+C:\Users\user\Downloads\AnalyzerViewer_source\DataCleaner\DataCleaner\bin\Debug\Lucene.Net.xml
+C:\Users\user\Downloads\AnalyzerViewer_source\DataCleaner\DataCleaner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Downloads\AnalyzerViewer_source\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.MainForm.resources
+C:\Users\user\Downloads\AnalyzerViewer_source\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.Properties.Resources.resources
+C:\Users\user\Downloads\AnalyzerViewer_source\DataCleaner\DataCleaner\obj\Debug\DataCleaner.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\AnalyzerViewer_source\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.exe
+C:\Users\user\Downloads\AnalyzerViewer_source\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.pdb
+G:\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.exe
+G:\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.pdb
+G:\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\AnalyzerViewer.exe
+G:\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\AnalyzerViewer.pdb
+G:\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\Lucene.Net.dll
+G:\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\Lucene.Net.xml
+G:\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\ResolveAssemblyReference.cache
+G:\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.MainForm.resources
+G:\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.Properties.Resources.resources
+G:\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\DataCleaner.csproj.GenerateResource.Cache
+C:\Users\Diksha\Desktop\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.exe
+C:\Users\Diksha\Desktop\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.pdb
+C:\Users\Diksha\Desktop\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\AnalyzerViewer.exe
+C:\Users\Diksha\Desktop\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\AnalyzerViewer.pdb
+C:\Users\Diksha\Desktop\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\Lucene.Net.dll
+C:\Users\Diksha\Desktop\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\Lucene.Net.xml
+C:\Users\Diksha\Desktop\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\DataCleaner.csprojResolveAssemblyReference.cache
+C:\Users\Diksha\Desktop\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.MainForm.resources
+C:\Users\Diksha\Desktop\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.Properties.Resources.resources
+C:\Users\Diksha\Desktop\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\DataCleaner.csproj.GenerateResource.Cache
+C:\Users\Diksha\Desktop\try\New folder\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.exe
+C:\Users\Diksha\Desktop\try\New folder\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.pdb
+C:\Users\Diksha\Desktop\try\New folder\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\AnalyzerViewer.exe
+C:\Users\Diksha\Desktop\try\New folder\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\AnalyzerViewer.pdb
+C:\Users\Diksha\Desktop\try\New folder\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\Lucene.Net.dll
+C:\Users\Diksha\Desktop\try\New folder\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\Lucene.Net.xml
+C:\Users\Diksha\Desktop\try\New folder\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\DataCleaner.csprojResolveAssemblyReference.cache
+C:\Users\Diksha\Desktop\try\New folder\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.MainForm.resources
+C:\Users\Diksha\Desktop\try\New folder\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.Properties.Resources.resources
+C:\Users\Diksha\Desktop\try\New folder\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\DataCleaner.csproj.GenerateResource.Cache
+C:\Users\Diksha\Desktop\try\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.exe
+C:\Users\Diksha\Desktop\try\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.pdb
+C:\Users\Diksha\Desktop\try\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\DataCleaner.csprojResolveAssemblyReference.cache
+C:\Users\Diksha\Desktop\try\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.MainForm.resources
+C:\Users\Diksha\Desktop\try\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\AnalyzerViewer.Properties.Resources.resources
+C:\Users\Diksha\Desktop\try\TextMining\DataCleaner\DataCleaner\DataCleaner\obj\Debug\DataCleaner.csproj.GenerateResource.Cache
+C:\Users\Diksha\Desktop\try\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\AnalyzerViewer.exe
+C:\Users\Diksha\Desktop\try\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\AnalyzerViewer.pdb
+C:\Users\Diksha\Desktop\try\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\Lucene.Net.dll
+C:\Users\Diksha\Desktop\try\TextMining\DataCleaner\DataCleaner\DataCleaner\bin\Debug\Lucene.Net.xml

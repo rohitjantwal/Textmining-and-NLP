@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\AnalyzerViewer_source\AnalyzerViewer\AnalyzerViewer\bin\Release\AnalyzerViewer.exe
+C:\Users\user\Downloads\AnalyzerViewer_source\AnalyzerViewer\AnalyzerViewer\bin\Release\AnalyzerViewer.pdb
+C:\Users\user\Downloads\AnalyzerViewer_source\AnalyzerViewer\AnalyzerViewer\bin\Release\Lucene.Net.dll
+C:\Users\user\Downloads\AnalyzerViewer_source\AnalyzerViewer\AnalyzerViewer\bin\Release\Lucene.Net.xml
+C:\Users\user\Downloads\AnalyzerViewer_source\AnalyzerViewer\AnalyzerViewer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user\Downloads\AnalyzerViewer_source\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.MainForm.resources
+C:\Users\user\Downloads\AnalyzerViewer_source\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.Properties.Resources.resources
+C:\Users\user\Downloads\AnalyzerViewer_source\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\AnalyzerViewer_source\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.exe
+C:\Users\user\Downloads\AnalyzerViewer_source\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.pdb

@@ -1,0 +1,65 @@
+D:\Projects\Student Projects2012-13\C#.NET\TextMining\TextMining\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Student Projects2012-13\C#.NET\TextMining\TextMining\obj\Debug\TextMining.Form1.resources
+D:\Projects\Student Projects2012-13\C#.NET\TextMining\TextMining\obj\Debug\TextMining.Properties.Resources.resources
+D:\Projects\Student Projects2012-13\C#.NET\TextMining\TextMining\obj\Debug\TextMining.csproj.GenerateResource.Cache
+D:\Projects\Student Projects2012-13\C#.NET\TextMining\TextMining\bin\Debug\TextMining.exe
+D:\Projects\Student Projects2012-13\C#.NET\TextMining\TextMining\bin\Debug\TextMining.pdb
+D:\Projects\Student Projects2012-13\C#.NET\TextMining\TextMining\obj\Debug\TextMining.exe
+D:\Projects\Student Projects2012-13\C#.NET\TextMining\TextMining\obj\Debug\TextMining.pdb
+G:\TextMining-1\TextMining\TextMining\obj\Debug\TextMining.exe
+G:\TextMining-1\TextMining\TextMining\obj\Debug\TextMining.pdb
+G:\TextMining-1\TextMining\TextMining\bin\Debug\TextMining.exe
+G:\TextMining-1\TextMining\TextMining\bin\Debug\TextMining.pdb
+G:\TextMining-1\TextMining\TextMining\obj\Debug\ResolveAssemblyReference.cache
+G:\TextMining-1\TextMining\TextMining\obj\Debug\TextMining.Form1.resources
+G:\TextMining-1\TextMining\TextMining\obj\Debug\TextMining.Properties.Resources.resources
+G:\TextMining-1\TextMining\TextMining\obj\Debug\TextMining.csproj.GenerateResource.Cache
+G:\TextMining\TextMining\obj\Debug\TextMining.exe
+G:\TextMining\TextMining\obj\Debug\TextMining.pdb
+G:\TextMining\TextMining\bin\Debug\TextMining.exe
+G:\TextMining\TextMining\bin\Debug\TextMining.pdb
+G:\TextMining\TextMining\obj\Debug\ResolveAssemblyReference.cache
+G:\TextMining\TextMining\obj\Debug\TextMining.Form1.resources
+G:\TextMining\TextMining\obj\Debug\TextMining.Properties.Resources.resources
+G:\TextMining\TextMining\obj\Debug\TextMining.csproj.GenerateResource.Cache
+G:\TextMining\TextMining\obj\Debug\TextMining.Form2.resources
+E:\TextMining\TextMining\TextMining\obj\Debug\TextMining.exe
+E:\TextMining\TextMining\TextMining\obj\Debug\TextMining.pdb
+E:\TextMining\TextMining\TextMining\bin\Debug\TextMining.exe
+E:\TextMining\TextMining\TextMining\bin\Debug\TextMining.pdb
+E:\TextMining\TextMining\TextMining\obj\Debug\ResolveAssemblyReference.cache
+E:\TextMining\TextMining\TextMining\obj\Debug\TextMining.Form1.resources
+E:\TextMining\TextMining\TextMining\obj\Debug\TextMining.Form2.resources
+E:\TextMining\TextMining\TextMining\obj\Debug\TextMining.Properties.Resources.resources
+E:\TextMining\TextMining\TextMining\obj\Debug\TextMining.csproj.GenerateResource.Cache
+C:\Users\Diksha\Desktop\TextMining\TextMining\obj\Debug\TextMining.exe
+C:\Users\Diksha\Desktop\TextMining\TextMining\obj\Debug\TextMining.pdb
+C:\Users\Diksha\Desktop\TextMining\TextMining\bin\Debug\TextMining.exe
+C:\Users\Diksha\Desktop\TextMining\TextMining\bin\Debug\TextMining.pdb
+C:\Users\Diksha\Desktop\TextMining\TextMining\obj\Debug\TextMining.Form1.resources
+C:\Users\Diksha\Desktop\TextMining\TextMining\obj\Debug\TextMining.Form2.resources
+C:\Users\Diksha\Desktop\TextMining\TextMining\obj\Debug\TextMining.Properties.Resources.resources
+C:\Users\Diksha\Desktop\TextMining\TextMining\obj\Debug\TextMining.csproj.GenerateResource.Cache
+C:\Users\Diksha\Desktop\TextMining\TextMining\obj\Debug\TextMining.csprojResolveAssemblyReference.cache
+C:\Users\Diksha\Desktop\try\New folder\TextMining\TextMining\obj\Debug\TextMining.exe
+C:\Users\Diksha\Desktop\try\New folder\TextMining\TextMining\obj\Debug\TextMining.pdb
+F:\sem6\MINOR PROJECT- II  (IT)  (10B29CI692)\main\TextMining\TextMining\obj\Debug\TextMining.exe
+F:\sem6\MINOR PROJECT- II  (IT)  (10B29CI692)\main\TextMining\TextMining\obj\Debug\TextMining.pdb
+C:\Users\Diksha\Desktop\try\TextMining\TextMining\obj\Debug\TextMining.exe
+C:\Users\Diksha\Desktop\try\TextMining\TextMining\obj\Debug\TextMining.pdb
+C:\Users\Diksha\Desktop\try\TextMining\TextMining\bin\Debug\TextMining.exe
+C:\Users\Diksha\Desktop\try\TextMining\TextMining\bin\Debug\TextMining.pdb
+C:\Users\Diksha\Desktop\try\TextMining\TextMining\obj\Debug\TextMining.csprojResolveAssemblyReference.cache
+C:\Users\Diksha\Desktop\try\TextMining\TextMining\obj\Debug\TextMining.Form1.resources
+C:\Users\Diksha\Desktop\try\TextMining\TextMining\obj\Debug\TextMining.Form2.resources
+C:\Users\Diksha\Desktop\try\TextMining\TextMining\obj\Debug\TextMining.Properties.Resources.resources
+C:\Users\Diksha\Desktop\try\TextMining\TextMining\obj\Debug\TextMining.csproj.GenerateResource.Cache
+C:\Users\Diksha\Desktop\Minor Final\TextMining\TextMining\obj\Debug\TextMining.exe
+C:\Users\Diksha\Desktop\Minor Final\TextMining\TextMining\obj\Debug\TextMining.pdb
+C:\Users\Diksha\Desktop\Minor Final\TextMining\TextMining\bin\Debug\TextMining.exe
+C:\Users\Diksha\Desktop\Minor Final\TextMining\TextMining\bin\Debug\TextMining.pdb
+C:\Users\Diksha\Desktop\Minor Final\TextMining\TextMining\obj\Debug\TextMining.csprojResolveAssemblyReference.cache
+C:\Users\Diksha\Desktop\Minor Final\TextMining\TextMining\obj\Debug\TextMining.Form1.resources
+C:\Users\Diksha\Desktop\Minor Final\TextMining\TextMining\obj\Debug\TextMining.Form2.resources
+C:\Users\Diksha\Desktop\Minor Final\TextMining\TextMining\obj\Debug\TextMining.Properties.Resources.resources
+C:\Users\Diksha\Desktop\Minor Final\TextMining\TextMining\obj\Debug\TextMining.csproj.GenerateResource.Cache

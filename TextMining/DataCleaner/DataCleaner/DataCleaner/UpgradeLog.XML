@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataCleaner">
+</Property><Property Name="Solution File" Value="C:\Users\Diksha\Desktop\TextMining\DataCleaner\DataCleaner\DataCleaner\DataCleaner.sln">
+</Property><Property Name="Date" Value="4 May, 2013">
+</Property><Property Name="Time" Value="20:36 PM">
+</Property></Properties><Event ErrorLevel="0" Project="DataCleaner" Source="DataCleaner.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataCleaner" Source="DataCleaner.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DataCleaner.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DataCleaner.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataCleaner" Source="DataCleaner.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

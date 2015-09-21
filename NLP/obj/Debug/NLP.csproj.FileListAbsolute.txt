@@ -1,0 +1,110 @@
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\NLP.exe
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\NLP.pdb
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\bin\Debug\NLP.exe
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\bin\Debug\NLP.pdb
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.AddStopWord.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.ColorPicker.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.WcForm.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.InputDialog.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.ProgressWindow.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\NLP.Properties.Resources.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\NLP.Resource1.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.StopWords.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\NLP.csproj.GenerateResource.Cache
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\NLP.exe
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\NLP.pdb
+D:\Projects\Student Projects2012-13\C#.NET\NLP\bin\Debug\NLP.exe
+D:\Projects\Student Projects2012-13\C#.NET\NLP\bin\Debug\NLP.pdb
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\WordCloud.AddStopWord.resources
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\WordCloud.ColorPicker.resources
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\WordCloud.WcForm.resources
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\WordCloud.InputDialog.resources
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\WordCloud.ProgressWindow.resources
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\NLP.Properties.Resources.resources
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\NLP.Resource1.resources
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\WordCloud.StopWords.resources
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\NLP.csproj.GenerateResource.Cache
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\NLP.frmMain.resources
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\NLP.frmOldCategory.resources
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\NLP.frmCountWords.resources
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\NLP.csprojResolveAssemblyReference.cache
+D:\Projects\Student Projects2012-13\C#.NET\NLP\obj\Debug\NLP.frmViewStartList.resources
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\NLP.exe
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\NLP.pdb
+C:\Users\Diksha\Desktop\new project\NLP\bin\Debug\NLP.exe
+C:\Users\Diksha\Desktop\new project\NLP\bin\Debug\NLP.pdb
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\NLP.csprojResolveAssemblyReference.cache
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\WordCloud.AddStopWord.resources
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\WordCloud.ColorPicker.resources
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\NLP.frmCountWords.resources
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\NLP.frmMain.resources
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\NLP.frmOldCategory.resources
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\NLP.frmViewStartList.resources
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\WordCloud.WcForm.resources
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\WordCloud.InputDialog.resources
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\WordCloud.ProgressWindow.resources
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\NLP.Properties.Resources.resources
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\NLP.Resource1.resources
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\WordCloud.StopWords.resources
+C:\Users\Diksha\Desktop\new project\NLP\obj\Debug\NLP.csproj.GenerateResource.Cache
+C:\Users\Diksha\Desktop\NLP\obj\Debug\NLP.exe
+C:\Users\Diksha\Desktop\NLP\obj\Debug\NLP.pdb
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\NLP.exe
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\NLP.pdb
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\NLP.csprojResolveAssemblyReference.cache
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\WordCloud.AddStopWord.resources
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\WordCloud.ColorPicker.resources
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\NLP.frmCountWords.resources
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\NLP.frmMain.resources
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\NLP.frmNewCategory.resources
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\NLP.frmOldCategory.resources
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\NLP.frmViewStartList.resources
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\WordCloud.WcForm.resources
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\WordCloud.InputDialog.resources
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\WordCloud.ProgressWindow.resources
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\NLP.Properties.Resources.resources
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\NLP.Resource1.resources
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\WordCloud.StopWords.resources
+C:\Users\Diksha\Desktop\try\nlp1\NLP\obj\Debug\NLP.csproj.GenerateResource.Cache
+C:\Users\Diksha\Desktop\try\nlp1\NLP\bin\Debug\NLP.exe
+C:\Users\Diksha\Desktop\try\nlp1\NLP\bin\Debug\NLP.pdb
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\NLP.exe
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\NLP.pdb
+C:\Users\Diksha\Desktop\try\NLP\bin\Debug\NLP.exe
+C:\Users\Diksha\Desktop\try\NLP\bin\Debug\NLP.pdb
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\NLP.csprojResolveAssemblyReference.cache
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\WordCloud.AddStopWord.resources
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\WordCloud.ColorPicker.resources
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\NLP.frmCountWords.resources
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\NLP.frmMain.resources
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\NLP.frmNewCategory.resources
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\NLP.frmOldCategory.resources
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\NLP.frmViewStartList.resources
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\WordCloud.WcForm.resources
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\WordCloud.InputDialog.resources
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\WordCloud.ProgressWindow.resources
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\NLP.Properties.Resources.resources
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\NLP.Resource1.resources
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\WordCloud.StopWords.resources
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\NLP.csproj.GenerateResource.Cache
+C:\Users\Diksha\Desktop\try\NLP\obj\Debug\NLP.frmCompare.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\NLP.exe
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\NLP.pdb
+C:\Users\Diksha\Desktop\Minor Final\NLP\bin\Debug\NLP.exe
+C:\Users\Diksha\Desktop\Minor Final\NLP\bin\Debug\NLP.pdb
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\NLP.csprojResolveAssemblyReference.cache
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\WordCloud.AddStopWord.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\WordCloud.ColorPicker.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\NLP.frmCompare.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\NLP.frmCountWords.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\NLP.frmMain.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\NLP.frmNewCategory.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\NLP.frmOldCategory.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\NLP.frmViewStartList.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\WordCloud.WcForm.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\WordCloud.InputDialog.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\WordCloud.ProgressWindow.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\NLP.Properties.Resources.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\NLP.Resource1.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\WordCloud.StopWords.resources
+C:\Users\Diksha\Desktop\Minor Final\NLP\obj\Debug\NLP.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.AddStopWord.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.ColorPicker.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.WcForm.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.InputDialog.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.ProgressWindow.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.StopWords.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\WordCloud.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\bin\Debug\NLP.exe
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\bin\Debug\NLP.pdb
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\NLP.Properties.Resources.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\NLP.Resource1.resources
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\NLP.exe
+C:\Users\user\Downloads\wordcloud_src\wordcloud_src\obj\Debug\NLP.pdb

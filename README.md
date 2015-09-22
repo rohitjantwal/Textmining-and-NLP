@@ -12,5 +12,5 @@ SBRs, without inspecting each single NSBR from a BTS.
 Text mining uses natural-language processing to parse terms (i.e., words and phrases) from a document to
 create a term-by-document frequency matrix. Table I shows a simple, hypothetical term-by-document
 matrix.
-
+Snapshots of the UI:
 ![snap1](https://cloud.githubusercontent.com/assets/5901681/10014871/49f9289e-60ea-11e5-9e9c-94a8782cfab3.png)
